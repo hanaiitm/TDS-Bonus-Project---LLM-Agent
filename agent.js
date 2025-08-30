@@ -1,7 +1,7 @@
 /**
  * GyaanSetu - Advanced AI Assistant
  * v2.8.0 (Updated: AI Pipe integration + bug fixes)
- * Author: Gaurav Tomar (Original) & Assistant (fixes)
+ * Author: Hana Vakayil (Original) & Assistant (fixes)
  */
 class GyaanSetu {
     constructor() {
